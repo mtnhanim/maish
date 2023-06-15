@@ -135,6 +135,13 @@ h5 {
 	color: #000000;
 }
 
+.tm-page-4-content a:hover{
+	padding: 3px 3px 3px 3px;
+	font-family: 'Brush Script MT',cursive;
+	
+}
+
+
 .tm-page-4-content .tm-article{
 	width:90%;
 }
